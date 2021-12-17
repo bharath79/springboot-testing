@@ -1,6 +1,6 @@
 # springboot-testing
 Unit tests
--Testing individual piece of code.
+- Testing individual piece of code.
 
 Integration tests
 Testing integration of units together.
